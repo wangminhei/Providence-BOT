@@ -61,8 +61,8 @@ pip3 install -r requirements.txt
 
 ### Account Setup
 
-<div align="left">
-  <img src="images/example.png" alt="Providence Session Token Example" width="300">
+<div align="center">
+  <img src="images/example.png" alt="Providence Session Token Example" width="500">
   <p><em>Example of fetching providence session token</em></p>
 </div>
 
