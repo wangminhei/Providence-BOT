@@ -289,7 +289,7 @@ class Providence:
             checkin_status = await self.checkin_status(token, proxy)
             if not checkin_status: return
             
-            can_checkin = stats.get("data", {}).get("canCheckinToday")
+            can_checkin = checkin_status.get("data", {}).get("canCheckinToday")
             if can_checkin:
                 claim = await self.claim_checkin(token, proxy)
                 if claim:
