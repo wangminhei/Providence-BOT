@@ -22,7 +22,7 @@
 
 Providence BOT is an automated tool designed to daily check-in across multiple accounts. It provides seamless offers robust proxy support for enhanced security and reliability.
 
-**🔗 Get Started:** [Register on Providence](https://hub.playprovidence.io/referral-signin/DAA4BADA)  
+**🔗 Get Started:** [Register on Providence](https://hub.playprovidence.io/referral-signin/B3795CB6)  
 **🎁 Use Code:** `DAA4BADA`
 
 > **Important:** Signup with google account
@@ -140,12 +140,7 @@ If this project has been helpful to you, consider supporting its development:
 
 ### Cryptocurrency Donations
 
-| Network | Address |
-|---------|---------|
-| **EVM** | `0xe3c9ef9a39e9eb0582e5b147026cae524338521a` |
-| **TON** | `UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB` |
-| **SOL** | `E1xkaJYmAFEj28NPHKhjbf7GcvfdjKdvXju8d8AeSunf` |
-| **SUI** | `0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347` |
+
 
 ## 🤝 Contributing
 
